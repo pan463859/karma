@@ -5,6 +5,6 @@ describe('add', function () {
 })
 describe('jianfa', function () {
   it('900-100=800', function () {
-    add(900, 100).should.equal(800);
+    jianfa(900, 100).should.equal(800);
   })
 })
